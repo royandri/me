@@ -1,41 +1,41 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class Education extends Component {
-    render () {
-        return (
-            <div>
-                <section class="colorlib-education" data-section="education">
-					<div class="colorlib-narrow-content">
-						<div class="row">
-							<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
+	render() {
+		return (
+			<div>
+				<section className="colorlib-education" data-section="education">
+					<div className="colorlib-narrow-content">
+						<div className="row">
+							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
 								data-animate-effect="fadeInLeft">
-								<span class="heading-meta">Education</span>
-								<h2 class="colorlib-heading animate-box">Education</h2>
+								<span className="heading-meta">Education</span>
+								<h2 className="colorlib-heading animate-box">Education</h2>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-								<div class="fancy-collapse-panel">
-									<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingOne">
-												<h4 class="panel-title">
+						<div className="row">
+							<div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+								<div className="fancy-collapse-panel">
+									<div className="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+										<div className="panel panel-default">
+											<div className="panel-heading" role="tab" id="headingOne">
+												<h4 className="panel-title">
 													<a data-toggle="collapse" data-parent="#accordion"
 														href="#collapseOne" aria-expanded="true"
 														aria-controls="collapseOne">Master Degree Graphic Design
 													</a>
 												</h4>
 											</div>
-											<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel"
+											<div id="collapseOne" className="panel-collapse collapse in" role="tabpanel"
 												aria-labelledby="headingOne">
-												<div class="panel-body">
-													<div class="row">
-														<div class="col-md-6">
+												<div className="panel-body">
+													<div className="row">
+														<div className="col-md-6">
 															<p>Far far away, behind the word mountains, far from the
 																countries Vokalia and Consonantia, there live the blind
 																texts. </p>
 														</div>
-														<div class="col-md-6">
+														<div className="col-md-6">
 															<p>Separated they live in Bookmarksgrove right at the coast
 																of the Semantics, a large language ocean.</p>
 														</div>
@@ -43,18 +43,18 @@ class Education extends Component {
 												</div>
 											</div>
 										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingTwo">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion"
+										<div className="panel panel-default">
+											<div className="panel-heading" role="tab" id="headingTwo">
+												<h4 className="panel-title">
+													<a className="collapsed" data-toggle="collapse" data-parent="#accordion"
 														href="#collapseTwo" aria-expanded="false"
 														aria-controls="collapseTwo">Bachelor Degree of Computer Science
 													</a>
 												</h4>
 											</div>
-											<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
+											<div id="collapseTwo" className="panel-collapse collapse" role="tabpanel"
 												aria-labelledby="headingTwo">
-												<div class="panel-body">
+												<div className="panel-body">
 													<p>Far far away, behind the word <strong>mountains</strong>, far
 														from the countries Vokalia and Consonantia, there live the blind
 														texts. Separated they live in Bookmarksgrove right at the coast
@@ -66,18 +66,18 @@ class Education extends Component {
 												</div>
 											</div>
 										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingThree">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion"
+										<div className="panel panel-default">
+											<div className="panel-heading" role="tab" id="headingThree">
+												<h4 className="panel-title">
+													<a className="collapsed" data-toggle="collapse" data-parent="#accordion"
 														href="#collapseThree" aria-expanded="false"
 														aria-controls="collapseThree">Diploma in Information Technology
 													</a>
 												</h4>
 											</div>
-											<div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
+											<div id="collapseThree" className="panel-collapse collapse" role="tabpanel"
 												aria-labelledby="headingThree">
-												<div class="panel-body">
+												<div className="panel-body">
 													<p>Far far away, behind the word <strong>mountains</strong>, far
 														from the countries Vokalia and Consonantia, there live the blind
 														texts. Separated they live in Bookmarksgrove right at the coast
@@ -86,18 +86,18 @@ class Education extends Component {
 											</div>
 										</div>
 
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingFour">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion"
+										<div className="panel panel-default">
+											<div className="panel-heading" role="tab" id="headingFour">
+												<h4 className="panel-title">
+													<a className="collapsed" data-toggle="collapse" data-parent="#accordion"
 														href="#collapseFour" aria-expanded="false"
 														aria-controls="collapseFour">Diploma in Information Technology
 													</a>
 												</h4>
 											</div>
-											<div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
+											<div id="collapseFour" className="panel-collapse collapse" role="tabpanel"
 												aria-labelledby="headingFour">
-												<div class="panel-body">
+												<div className="panel-body">
 													<p>Far far away, behind the word <strong>mountains</strong>, far
 														from the countries Vokalia and Consonantia, there live the blind
 														texts. Separated they live in Bookmarksgrove right at the coast
@@ -106,18 +106,18 @@ class Education extends Component {
 											</div>
 										</div>
 
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingFive">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion"
+										<div className="panel panel-default">
+											<div className="panel-heading" role="tab" id="headingFive">
+												<h4 className="panel-title">
+													<a className="collapsed" data-toggle="collapse" data-parent="#accordion"
 														href="#collapseFive" aria-expanded="false"
 														aria-controls="collapseFive">High School Secondary Education
 													</a>
 												</h4>
 											</div>
-											<div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
+											<div id="collapseFive" className="panel-collapse collapse" role="tabpanel"
 												aria-labelledby="headingFive">
-												<div class="panel-body">
+												<div className="panel-body">
 													<p>Far far away, behind the word <strong>mountains</strong>, far
 														from the countries Vokalia and Consonantia, there live the blind
 														texts. Separated they live in Bookmarksgrove right at the coast
@@ -131,9 +131,9 @@ class Education extends Component {
 						</div>
 					</div>
 				</section>
-            </div>
-        )
-    }
+			</div>
+		)
+	}
 }
 
 export default Education;

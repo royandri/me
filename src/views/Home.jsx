@@ -17,29 +17,29 @@ import Contact from './pages/Contact';
 class Home extends Component {
     render() {
         return (
-            <div id = "colorlib-page">
-                <div className = "container-wrap">
-                    {/* sidebar */}
-                    <Sidebar></Sidebar>
+            <div id="colorlib-page">
+                {/* <div className="container-wrap"> */}
+                {/* sidebar */}
+                <Sidebar></Sidebar>
 
-                    {/* content */}
-                    <div id = "colorlib-main">
-                        <Header></Header>
-                        <About></About>
-                        <Services></Services>
+                {/* content */}
+                <div id="colorlib-main">
+                    <Header></Header>
+                    <About></About>
+                    <Services></Services>
 
-                        <Splash></Splash>
+                    <Splash></Splash>
 
-                        <Skills></Skills>
-                        <Education></Education>
-                        <Experience></Experience>
-                        <Work></Work>
-                        <Blog></Blog>
-                        <Contact></Contact>
-
-                    </div>
+                    <Skills></Skills>
+                    <Education></Education>
+                    <Experience></Experience>
+                    <Work></Work>
+                    <Blog></Blog>
+                    <Contact></Contact>
 
                 </div>
+
+                {/* </div> */}
             </div>
         );
     }

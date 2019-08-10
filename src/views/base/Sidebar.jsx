@@ -7,7 +7,7 @@ class Sidebar extends Component {
                 <a href="/#" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
                 <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
                     <div className="text-center">
-                        <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}}></div>
+                        <div className="author-img" style={{ backgroundImage: 'url(../assets/images/roy.png)' }}></div>
                         <h1 id="colorlib-logo"><a href="/#">Roy Andri</a></h1>
                         <span className="position"><a href="/#">WEB DEVELOPER</a> in Indonesia</span>
                     </div>
@@ -30,7 +30,7 @@ class Sidebar extends Component {
                     <div className="colorlib-footer">
                         <p>
                             <small>
-                                &copy;Copyright &copy; All rights reserved | This site is made with <i className="icon-heart" aria-hidden="true"></i>
+                                &copy;2019 All rights reserved | Made with <i className="icon-heart" aria-hidden="true"> </i> using <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">React</a>
                             </small>
                         </p>
                         <ul>
