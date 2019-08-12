@@ -14,18 +14,12 @@ class About extends Component {
                                             <span className="heading-meta">About Us</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p>
-                                                <strong>Hi I'm Roy Andri</strong> On her way she met a
-                                                copy. The copy warned the Little Blind Text, that where
-                                                it came from it would have been rewritten a thousand
-                                                times and everything that was left from its origin would
-                                                be the word "and" and the Little Blind Text should turn
-                                                around and return to its own, safe country.
-                                            </p>
-                                            <p>
-                                                Even the all-powerful Pointing has no control about the
-                                                blind texts it is an almost unorthographic life One day
-                                                however a small line of blind text by the name of Lorem
-                                                Ipsum decided to leave for the far World of Grammar.
+                                                <strong>Hi I'm Roy Andri    </strong>
+                                                a hardworking and ambitious individual with a great passion for the IT industry.
+                                                I am a fresh graduate of the University of Technology Yogyakarta, majoring in Informatics and Engineering.
+                                                I have good comunication skills, enabling me to effectively comunicate with a wide range of people.
+                                                I am seeing a position in the industry in which  i can put  into practice my knowledge and experience,
+                                                ultimately, benefiting the operations of the organisation that i work for.
                                             </p>
                                         </div>
                                     </div>
@@ -71,7 +65,7 @@ class About extends Component {
                                                 I am happy to know you <br />that 300+ projects done
                                                 sucessfully!
                                             </h2>
-                                            <a href="//#" className="btn-hire">
+                                            <a href="/#" className="btn-hire">
                                                 Hire me
                                             </a>
                                         </div>
