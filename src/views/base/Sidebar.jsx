@@ -5,7 +5,7 @@ class Sidebar extends Component {
         return (
             <div>
                 <a href="/#" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-                <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
+                <aside id="colorlib-aside" className="border js-fullheight">
                     <div className="text-center">
                         <div className="author-img" style={{ backgroundImage: 'url(../assets/images/roy.png)' }}></div>
                         <h1 id="colorlib-logo"><a href="/#">Roy Andri</a></h1>

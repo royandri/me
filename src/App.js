@@ -12,8 +12,7 @@ import './assets/css/owl.carousel.min.css';
 import './assets/css/owl.theme.default.min.css';
 import './assets/css/style.css';
 
-// js
-// import './assets/js/modernizr-2.6.2.min.js';
+
 import Home from './views/Home';
 
 
