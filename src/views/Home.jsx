@@ -10,7 +10,7 @@ import Skills from './pages/Skills';
 import Education from './pages/Education';
 import Experience from './pages/Experience';
 import Work from './pages/Work';
-import Blog from './pages/Blog';
+// import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 
 
@@ -34,7 +34,7 @@ class Home extends Component {
                     <Education></Education>
                     <Experience></Experience>
                     <Work></Work>
-                    <Blog></Blog>
+                    {/* <Blog></Blog> */}
                     <Contact></Contact>
 
                 </div>

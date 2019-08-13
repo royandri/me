@@ -19,13 +19,12 @@ class Experience extends Component {
 										<div className="timeline-entry-inner">
 											<div className="timeline-icon color-1"><i className="icon-pen2"></i> </div>
 											<div className="timeline-label">
-												<h2><a href="/#">Full Stack Developer</a> <span>2017-2018</span></h2>
+												<h2><a href="/#">Front End Developer at Gama Informatika</a> <span>2019-Present</span></h2>
 												<p>
-													Tolerably earnestly middleton extremely distrusts she boy now not.
-													Add and offered prepare how cordial two promise. Greatly who affixed
-													suppose but enquire compact prepare all put. Added forth chief trees
-													but rooms think may.
-                                                </p>
+													Developed the front end of the application using HTML5, CSS3 and Javascript. 
+													Created interactive websites and website features using Javascript and jQuery. 
+													Used AJAX and JSON for client-side scripting to interact with API.
+												</p>
 											</div>
 										</div>
 									</article>
@@ -36,13 +35,10 @@ class Experience extends Component {
 											<div className="timeline-icon color-2"><i className="icon-pen2"></i> </div>
 											<div className="timeline-label">
 												<h2>
-													<a href="/#">Front End Developer at Google Company</a>
-													<span>2017-2018</span>
+													<a href="/#">Student Ambassador at 	CICIL.CO.ID </a>
+													<span>2018-2019</span>
 												</h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts
-													it is an almost unorthographic life One day however a small line of
-													blind text by the name of Lorem Ipsum decided to leave for the far
-													World of Grammar.
+												<p>Assist the process of applying for installment facilities and increase CICIL brand awareness in the campus environment.
                                                 </p>
 											</div>
 										</div>
@@ -52,39 +48,10 @@ class Experience extends Component {
 										<div className="timeline-entry-inner">
 											<div className="timeline-icon color-3"> <i className="icon-pen2"></i> </div>
 											<div className="timeline-label">
-												<h2><a href="/#">System Analyst</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts
-													it is an almost unorthographic life One day however a small line of
-													blind text by the name of Lorem Ipsum decided to leave for the far
-													World of Grammar.
-                                                </p>
-											</div>
-										</div>
-									</article>
-
-									<article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-										<div className="timeline-entry-inner">
-											<div className="timeline-icon color-4"><i className="icon-pen2"></i> </div>
-											<div className="timeline-label">
-												<h2><a href="/#">Creative Designer</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts
-													it is an almost unorthographic life One day however a small line of
-													blind text by the name of Lorem Ipsum decided to leave for the far
-													World of Grammar.
-                                                </p>
-											</div>
-										</div>
-									</article>
-
-									<article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-										<div className="timeline-entry-inner">
-											<div className="timeline-icon color-5"><i className="icon-pen2"></i> </div>
-											<div className="timeline-label">
-												<h2><a href="/#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts
-													it is an almost unorthographic life One day however a small line of
-													blind text by the name of Lorem Ipsum decided to leave for the far
-													World of Grammar.
+												<h2><a href="/#">Assistant Lecturer at UTY</a> <span>2018-2019</span></h2>
+												<p>
+													Responsible for teaching students in several subjects including 
+													Object Oriented Programming, Database System, and Information Technology Application
                                                 </p>
 											</div>
 										</div>

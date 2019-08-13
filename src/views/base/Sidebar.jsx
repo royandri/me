@@ -21,7 +21,7 @@ class Sidebar extends Component {
                                 <li><a href="/#" data-nav-section="education">Education</a></li>
                                 <li><a href="/#" data-nav-section="experience">Experience</a></li>
                                 <li><a href="/#" data-nav-section="work">Work</a></li>
-                                <li><a href="/#" data-nav-section="blog">Blog</a></li>
+                                {/* <li><a href="/#" data-nav-section="blog">Blog</a></li> */}
                                 <li><a href="/#" data-nav-section="contact">Contact</a></li>
                             </ul>
                         </div>
@@ -30,7 +30,7 @@ class Sidebar extends Component {
                     <div className="colorlib-footer">
                         <p>
                             <small>
-                                &copy;2019 All rights reserved | Made with <i className="icon-heart" aria-hidden="true"> </i> using <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">React</a>
+                                &copy;{new Date().getFullYear()} All rights reserved | Made with <i className="icon-heart" aria-hidden="true"> </i> using <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">React</a>
                             </small>
                         </p>
                         <ul>

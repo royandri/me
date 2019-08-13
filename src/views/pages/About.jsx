@@ -16,7 +16,7 @@ class About extends Component {
                                             <p>
                                                 <strong>Hi I'm Roy Andri    </strong>
                                                 a hardworking and ambitious individual with a great passion for the IT industry.
-                                                I am a fresh graduate of the University of Technology Yogyakarta, majoring in Informatics and Engineering.
+                                                I am a fresh graduate of the University of Technology Yogyakarta, majoring in Computer Science.
                                                 I have good comunication skills, enabling me to effectively comunicate with a wide range of people.
                                                 I am seeing a position in the industry in which  i can put  into practice my knowledge and experience,
                                                 ultimately, benefiting the operations of the organisation that i work for.
@@ -62,7 +62,7 @@ class About extends Component {
                                     <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                                         <div className="hire">
                                             <h2>
-                                                I am happy to know you <br />that 300+ projects done
+                                                I am happy to know you <br />that 20+ projects done
                                                 sucessfully!
                                             </h2>
                                             <a href="/#" className="btn-hire">

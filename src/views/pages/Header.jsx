@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 
 class Header extends Component {
+
+	handelClick() {
+		alert('Coming soon !')
+	}
+
 	render() {
 		return (
 			<div>
@@ -18,7 +23,7 @@ class Header extends Component {
 													<h1>Hi! <br></br>I'm Roy</h1>
 													{/* <h2></h2> */}
 													<p>
-														<a href="/#" className="btn btn-primary btn-learn">Download CV <i className="icon-download4"></i></a>
+														<a href="/#" onClick={this.handelClick} className="btn btn-primary btn-learn">Download CV <i className="icon-download4"></i></a>
 													</p>
 												</div>
 											</div>
@@ -37,7 +42,7 @@ class Header extends Component {
 													<h1> I am <br></br>a Web Developer</h1>
 													{/* <h2></h2> */}
 													<p>
-														<a href="/#" className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3"></i></a>
+														<a href="/#" onClick={this.handelClick} className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3"></i></a>
 													</p>
 												</div>
 											</div>

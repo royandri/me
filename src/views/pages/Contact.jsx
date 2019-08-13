@@ -1,6 +1,12 @@
 import React, { Component } from 'react';
 
 class Contact extends Component {
+	
+	handelClick() {
+		alert('Coming soon !')
+	}
+
+
 	render() {
 		return (
 			<div>
@@ -58,7 +64,7 @@ class Contact extends Component {
 												<textarea name="" id="message" cols="30" rows="7" className="form-control" placeholder="Message"></textarea>
 											</div>
 											<div className="form-group">
-												<input type="submit" className="btn btn-primary btn-send-message" value="Send Message"></input>
+												<input type="button" onClick={this.handelClick} className="btn btn-primary btn-send-message" value="Send Message"></input>
 											</div>
 										</form>
 									</div>

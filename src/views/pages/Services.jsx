@@ -20,8 +20,8 @@ class Service extends Component {
 										<i className="icon-bulb"></i>
 									</span>
 									<div className="desc">
-										<h3>Innovative Ideas</h3>
-										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+										<h3>Problem Solving</h3>
+										<p>Able to use logic, analytics, and data to find solutions to problems.</p>
 									</div>
 								</div>
 							</div>
@@ -31,8 +31,8 @@ class Service extends Component {
 										<i className="icon-data"></i>
 									</span>
 									<div className="desc">
-										<h3>Software</h3>
-										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+										<h3>Good Communication</h3>
+										<p>Able to communicate effectively with others.</p>
 									</div>
 								</div>
 							</div>
@@ -42,41 +42,10 @@ class Service extends Component {
 										<i className="icon-phone3"></i>
 									</span>
 									<div className="desc">
-										<h3>Application</h3>
-										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 text-center animate-box">
-								<div className="services color-4">
-									<span className="icon">
-										<i className="icon-layers2"></i>
-									</span>
-									<div className="desc">
-										<h3>Graphic Design</h3>
-										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 text-center animate-box">
-								<div className="services color-5">
-									<span className="icon">
-										<i className="icon-data"></i>
-									</span>
-									<div className="desc">
-										<h3>Software</h3>
-										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 text-center animate-box">
-								<div className="services color-6">
-									<span className="icon">
-										<i className="icon-phone3"></i>
-									</span>
-									<div className="desc">
-										<h3>Application</h3>
-										<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+										<h3>Time Management</h3>
+										<p>
+											Reliable and trusted to get the job done as quickly as possible.
+										</p>
 									</div>
 								</div>
 							</div>
