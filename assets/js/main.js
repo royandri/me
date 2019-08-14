@@ -182,6 +182,7 @@
 			$(this).find('a[data-nav-section="' + section + '"]').closest('li').addClass('active');
 		});
 
+
 	};
 
 	var navigationSection = function () {
