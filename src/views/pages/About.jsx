@@ -65,7 +65,7 @@ class About extends Component {
                                                 I am happy to know you <br />that 20+ projects done
                                                 sucessfully!
                                             </h2>
-                                            <a href="/#" className="btn-hire">
+                                            <a href={`${process.env.PUBLIC_URL}`} className="btn-hire">
                                                 Hire me
                                             </a>
                                         </div>

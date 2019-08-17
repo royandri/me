@@ -5,7 +5,7 @@ class Splash extends Component {
 	render() {
 		return (
 			<div>
-				<div id="colorlib-counter" className="colorlib-counters" style={{ backgroundImage: 'url(../assets/images/cover_bg_1.jpg)' }} data-stellar-background-ratio="0.5">
+				<div id="colorlib-counter" className="colorlib-counters" style={{ backgroundImage: 'url(assets/images/cover_bg_1.jpg)' }} data-stellar-background-ratio="0.5">
 					<div className="overlay"></div>
 					<div className="colorlib-narrow-content">
 						<div className="row"></div>

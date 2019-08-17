@@ -15,7 +15,7 @@ class Blog extends Component {
 						<div className="row">
 							<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 								<div className="blog-entry">
-									<a href="blog.html" className="blog-img"> <img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></img></a>
+									<a href="blog.html" className="blog-img"> <img src="url(images/blog-1.jpg)" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></img></a>
 									<div className="desc">
 										<span>
 											<small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3"></i> 4</small>

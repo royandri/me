@@ -19,10 +19,10 @@ class Experience extends Component {
 										<div className="timeline-entry-inner">
 											<div className="timeline-icon color-1"><i className="icon-pen2"></i> </div>
 											<div className="timeline-label">
-												<h2><a href="/#">Front End Developer at Gama Informatika</a> <span>2019-Present</span></h2>
+												<h2><a href={`${process.env.PUBLIC_URL}`}>Front End Developer at Gama Informatika</a> <span>2019-Present</span></h2>
 												<p>
-													Developed the front end of the application using HTML5, CSS3 and Javascript. 
-													Created interactive websites and website features using Javascript and jQuery. 
+													Developed the front end of the application using HTML5, CSS3 and Javascript.
+													Created interactive websites and website features using Javascript and jQuery.
 													Used AJAX and JSON for client-side scripting to interact with API.
 												</p>
 											</div>
@@ -35,7 +35,7 @@ class Experience extends Component {
 											<div className="timeline-icon color-2"><i className="icon-pen2"></i> </div>
 											<div className="timeline-label">
 												<h2>
-													<a href="/#">Student Ambassador at 	CICIL.CO.ID </a>
+													<a href={`${process.env.PUBLIC_URL}`}>Student Ambassador at 	CICIL.CO.ID </a>
 													<span>2018-2019</span>
 												</h2>
 												<p>Assist the process of applying for installment facilities and increase CICIL brand awareness in the campus environment.
@@ -48,9 +48,9 @@ class Experience extends Component {
 										<div className="timeline-entry-inner">
 											<div className="timeline-icon color-3"> <i className="icon-pen2"></i> </div>
 											<div className="timeline-label">
-												<h2><a href="/#">Assistant Lecturer at UTY</a> <span>2018-2019</span></h2>
+												<h2><a href={`${process.env.PUBLIC_URL}`}>Assistant Lecturer at UTY</a> <span>2018-2019</span></h2>
 												<p>
-													Responsible for teaching students in several subjects including 
+													Responsible for teaching students in several subjects including
 													Object Oriented Programming, Database System, and Information Technology Application
                                                 </p>
 											</div>
